@@ -30,6 +30,8 @@
 import Header from './components/header/header.vue';
 import Navbar from './components/navbar/Navbar.vue';
 // import Scrollspy from './components/scrollspy/Scrollspy.vue';
+//Hello
+
 export default {
   components: {
     Header,
